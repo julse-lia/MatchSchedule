@@ -1,0 +1,11 @@
+lab\matchscheduleproject\controller\TeamController.class
+lab\matchscheduleproject\model\TeamsFacade.class
+lab\matchscheduleproject\resources\JavaEE8Resource.class
+lab\matchscheduleproject\controller\serv.class
+lab\matchscheduleproject\entities\Matchresults.class
+lab\matchscheduleproject\entities\Matches.class
+lab\matchscheduleproject\JAXRSConfiguration.class
+lab\matchscheduleproject\entities\Teams.class
+lab\matchscheduleproject\model\MatchesFacade.class
+lab\matchscheduleproject\model\MatchresultsFacade.class
+lab\matchscheduleproject\model\AbstractFacade.class
