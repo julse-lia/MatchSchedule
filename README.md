@@ -35,19 +35,25 @@ git@github.com:julse-lia/MatchSchedule.git
 3. Build and run project
 
 ## Program execution results
-*index page*
+**index page**
+
 ![Index](images/index.png)
 <figcaption>Pic. 1.1 Index page image</figcaption>
 
-*add new team form*
+
+**add new team form**
+
 ![Add team](images/add_team.png)
 <figcaption>Pic. 1.2 Add team form</figcaption>
 
-*edit team form*
+
+**edit team form**
+
 ![Edit team](images/edit_team.png)
 <figcaption>Pic. 1.3 Edit team form</figcaption>
 
-*team match results*
+
+**team match results**
 ![Match results info](images/team_match_results.png)
 <figcaption>Pic. 1.4 Show match results</figcaption>
 
